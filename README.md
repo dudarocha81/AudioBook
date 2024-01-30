@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <b>This repository contains an audiobook project based on the works of Dom Casimiro. </b>
+    <b>This repository contains an audiobook project based on the works of Dom Casmurro. </b>
 </p>
 
 <p align="center">
