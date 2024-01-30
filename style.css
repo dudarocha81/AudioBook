@@ -1,0 +1,47 @@
+body{ 
+    background-image: linear-gradient(#d8d1e4, #03396c);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: #d6d6ea;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+#texto-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 28px 0 14px 0;
+    font-size: 17px;
+  }
+
+ #Capitulos{
+    font-size: 23px;
+    font-family: "Helvetica";
+    padding: 20px;
+    
+}
+  
+button {
+    background-color: transparent;
+    color: #ffff;
+    border: none;
+    cursor: pointer;
+  }
+
+#botoes-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+
+#voltar, #avançar, #pausar-tocar {
+    font-size: 42px;
+  }
+  
